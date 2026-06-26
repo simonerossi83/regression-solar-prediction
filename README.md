@@ -19,7 +19,6 @@ To run the notebooks and scripts in this repository, you will need:
 - scikit-learn
 - matplotlib
 - seaborn
-- pandas-gbq (if accessing BigQuery)
 
 ## Installation
 1. Clone the repository:
